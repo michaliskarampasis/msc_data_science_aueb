@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 sns.set()
-
 from statsmodels.formula.api import logit
 import statsmodels.formula.api as smf
 
