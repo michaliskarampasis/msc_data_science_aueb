@@ -4,7 +4,7 @@
   - Practical Data Science
       1. [Exploring Weather in Athens](https://github.com/michaliskarampasis/msc_data_science_aueb/tree/main/q1_practical_data_science/1_exploring_weather_in_athens)
       2. [Belief in Supernatural Evils & Guns](https://github.com/michaliskarampasis/msc_data_science_aueb/tree/main/q1_practical_data_science/2_belief_in_supernatural_evils_and_guns)
-      3. [Dissecting Spotify Valence (TBA)](#)    
+      3. Dissecting Spotify Valence (TBA)    
   - Probability and Statistics for Data Analysis (TBA)
 
 - **Quarter 2**
