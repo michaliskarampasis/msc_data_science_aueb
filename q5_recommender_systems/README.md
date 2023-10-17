@@ -2,7 +2,7 @@
 
 ### Projects
 
-(1) Collaborative Filtering Recommendation System
+(1) Collaborative Filtering Recommender System
 
-(2) Content Based Recommendation System (in progress)
+(2) Content Based Recommender System
 
