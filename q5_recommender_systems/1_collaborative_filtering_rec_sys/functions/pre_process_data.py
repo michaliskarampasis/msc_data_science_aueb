@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar  8 22:37:02 2023
-
-@author: mkarampasis
-"""
-
 import pandas as pd
 from termcolor import colored
 
