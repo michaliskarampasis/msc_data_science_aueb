@@ -12,7 +12,6 @@
 4. Create a second Python Notebook with a function called **summarize( )**. The function should accept as a parameter the path to a csv file created by the first Notebook. It should then create a 1-page pdf file that includes a summary of all the reviews in the csv. 
     * The nature of the summary is entirely free.
     * It can be text-based, visual-based, or a combination of both.
-    * It is also up to you to define what is important enough to be included in the summary.
-    * Focus on creating a summary that you think would be the most informative for customers.
-    * The creation of the pdf should be done through the notebook.
-    * You can use whatever Python-based library that you want. 
+    * We should define what is important enough to be included in the summary.
+    * We will focus on creating a summary that would be the most informative for customers.
+    * The creation of the pdf should be done through the notebook with the use of every Python-based library we want. 
