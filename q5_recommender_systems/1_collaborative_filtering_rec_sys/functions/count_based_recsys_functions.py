@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar  8 22:42:10 2023
-
-@author: mkarampasis
-"""
-
 # import libraries
 import pandas as pd
 from collections import defaultdict
