@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 19 20:03:39 2022
-
-@author: Michalis Karampasis
-"""
 #import libraries
 import matplotlib.pyplot as plt
 import seaborn as sns
