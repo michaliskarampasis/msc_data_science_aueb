@@ -4,4 +4,4 @@
 
 (1) Review Summarization (Web Scraping)
 
-(2) Churn Prediction (in progress)
+(2) Churn Prediction
