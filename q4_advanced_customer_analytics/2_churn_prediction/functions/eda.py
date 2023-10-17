@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 19 19:41:21 2022
-
-@author: Michalis Karampasis
-"""
-
 #import libraries
 import matplotlib as mpl
 import matplotlib.pyplot as plt
