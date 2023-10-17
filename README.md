@@ -19,12 +19,16 @@
   - Advanced Customer Analytics
       1. [Review Summarization (Web Scraping)](https://github.com/michaliskarampasis/msc_data_science_aueb/tree/main/q4_advanced_customer_analytics/1_review_summarization)
       2. [Churn Prediction](https://github.com/michaliskarampasis/msc_data_science_aueb/tree/main/q4_advanced_customer_analytics/2_churn_prediction)
-  - Data Visualization and Communication (TBA)
+  - Data Visualization and Communication
+      1. Analysis of Suicides in Greece (TBA)
   - Legal, Ethical and Policy Issues in Data Science (TBA)
 
 - **Quarter 5**
-  - Data Mining (TBA)
-  - Deep Learning (TBA)
+  - Data Mining
+      1. Compute User Similarities (Jaccard Distance, Min Hashing, and LSH) (TBA)
+  - Deep Learning
+      1. Classify Images of Clothing Using MLP & CNN (TBA)
+      2. Classify X-rays using neural networks (CNN, VGG-19) (TBA)
   - Recommender Systems
       1. [Collaborative Filtering Recommender System](https://github.com/michaliskarampasis/msc_data_science_aueb/tree/main/q5_recommender_systems/1_collaborative_filtering_rec_sys)
       2. [Content Based Recommender System](https://github.com/michaliskarampasis/msc_data_science_aueb/tree/main/q5_recommender_systems/2_content_based_rec_sys)
