@@ -10,7 +10,7 @@
     * for each review, the function should get the text, the rating, and the date. One line per review, 3 fields per line.
  
 4. Create a second Python Notebook with a function called **summarize( )**. The function should accept as a parameter the path to a csv file created by the first Notebook. It should then create a 1-page pdf file that includes a summary of all the reviews in the csv. 
-    * The nature of the summary is entirely up to you.
+    * The nature of the summary is entirely free.
     * It can be text-based, visual-based, or a combination of both.
     * It is also up to you to define what is important enough to be included in the summary.
     * Focus on creating a summary that you think would be the most informative for customers.
