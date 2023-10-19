@@ -9,7 +9,8 @@
 
 - **Quarter 2**
   - Large Scale Data Management (TBA)
-  - Machine Learning and Computational Statistics (TBA)
+  - Machine Learning and Computational Statistics
+      1. Hyperspectral Image Processing (TBA)
 
 - **Quarter 3**
   - Numerical Optimization and Large Scale Linear Algebra (TBA)
