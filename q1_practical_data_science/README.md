@@ -6,4 +6,4 @@
 
 (2) Belief in Supernatural Evils & Guns
 
-(3) Dissecting Spotify Valence (in progress)
+(3) Dissecting Spotify Valence (TBA)
